@@ -1,0 +1,3034 @@
+
+\
+\
+\
+\
+\
+\
+<meta charset="utf-8">\
+<meta name="apple-itunes-app" content="app-id=1185897042">\
+\
+\
+<html><head>\
+<meta property="og:image" content="https://asked.kr/asked.jpg" />\
+<meta charset="utf-8">\
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">  \
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />\
+<meta property="og:title" content="
+\f1 \'c6\'e4\'c0\'cc\'bd\'ba\'ba\'cf
+\f0  
+\f1 \'c0\'cd\'b8\'ed\'c1\'fa\'b9\'ae
+\f0 " />\
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>\
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3645921197055445"\
+     crossorigin="anonymous"></script>\
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>\
+<script src="./js/clipboard.min.js"></script>\
+<script src="https://www.youtube.com/player_api"></script>\
+<script src="./js/iscroll.js"></script>\
+<script src="./ad.js"></script>\
+<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>\
+<meta property="og:description"  content="
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2\'b4\'d4\'bf\'a1\'b0\'d4
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'c7\'d8\'ba\'b8\'bc\'bc\'bf\'e4
+\f0 ! "/>\
+<meta property="al:android:app_name" content="asked" />\
+<meta property="al:android:package" content="com.mobions.asked" />\
+<meta property="al:android:url" content="https://asked.kr/dokingkns" />\
+<title>
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2
+\f0  - asked 
+\f1 \'c0\'da\'c0\'af\'b7\'ce\'bf\'ee
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'b4\'e4\'ba\'af
+\f0 !</title>\
+<link rel="stylesheet" type="text/css" href="./css/asked.css">\
+<script src="./js/fb.js"></script>\
+\
+<div id="adsads" style="width: 150px; height: 150px; position: fixed; bottom: 105px; left:15px; z-index: 2147483647;" id="SHOWUP">\
+   <div style="width:12px;height:12px;position:absolute;top:2px;left:2px;z-index:2147483647;" onclick="ads_remove()"><img src="//asked.kr/close18.gif" width="12" height="12" alt="close" style="margin:5px;vertical-align:top;"></div>\
+  <iframe data-src="//ssp.realclick.co.kr/?m=Y2FuZHlqZWxseTAwMDA4XzM2NDM1&c=iframe" align="center" frameBorder="0" marginWidth="0" marginHeight="0" scrolling="no" topmargin="0" width="150px" height="150px" style="display:block;" id="realssp_candyjelly00008_36435" class="realssp" title="
+\f1 \'b8\'ae\'be\'f3\'c5\'ac\'b8\'af
+\f0  
+\f1 \'b9\'e8\'b3\'ca\'b1\'a4\'b0\'ed
+\f0 "></iframe><script src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=candyjelly00008_36435&t=i" async></script>\
+</div>\
+\
+<style>\
+#adsads.iframe-wrap \{\
+    height: 150px;\
+\}\
+\
+</style>\
+\
+<script>\
+   function ads_remove()\{\
+      document.getElementById("adsads").remove();\
+   \}\
+</script>\
+\
+<script>\
+function closeexitad() \{\
+    jQuery("#foin_00").animate(\{\
+        left: '-150px'\
+    \}, 1000, function() \{\
+        \
+    \});\
+\};\
+	window.addEventListener('message', function(ee) \{\
+		console.log('msgs');\
+				  if(ee.data.childData === 'loadad')\{\
+					$('#foin_00').remove();\
+					adsload();\
+				  \}\
+				\});\
+\
+</script>\
+\
+\
+\
+<style>\
+\
+\
+#foin_03F5 \{\
+\
+bottom:105px;\
+\
+\}\
+\
+#foin_close_03F5\{\
+    left: 0px;\
+    top: 0px;\
+\}\
+\
+#foin_00 \{\
+    z-index: 999999;\
+    display: inline-block;\
+    position: relative;\
+    overflow: hidden;\
+    height: 150px;\
+    width: 150px;\
+    position: fixed;\
+    left: -150px;\
+    bottom: 105px;\
+\}\
+\
+#exitad \{\
+	padding: 0px;\
+    cursor: pointer;\
+    position: absolute;\
+	z-index: 100000;\
+    left: 5px;\
+    top: 5px;\
+    width: 22px !important;\
+    height: 22px !important;\
+    line-height: 18px;\
+	left: 0px;\
+    top: 0px;\
+\}\
+\
+\
+\
+</style>\
+\
+\
+<script>\
+\
+	var lo_fb_chk=0;\
+    facebookAppId = '1592212707723472';\
+    facebookDefaultScope = ["email","user_friends"];\
+    staticUrl = '/static/';\
+    function facebookJSLoaded()\{\
+        FB.init(\{appId: facebookAppId, status: false, cookie: true, xfbml: true, oauth: true\});\
+    \}\
+    window.fbAsyncInit = facebookJSLoaded;\
+    F = new facebookClass(facebookAppId);\
+    F.load();\
+\
+\
+  function statusChangeCallback(response) \{\
+    if (response.status === 'connected') \{\
+    \} else if (response.status === 'not_authorized') \{\
+    \} else \{\
+    \}\
+  \}\
+  function checkLoginState() \{\
+    FB.getLoginStatus(function(response) \{\
+      statusChangeCallback(response);\
+    \});\
+  \}\
+\
+  window.fbAsyncInit = function() \{\
+  FB.init(\{\
+    appId      : '1592212707723472',\
+    cookie     : true,  // 
+\f1 \'c4\'ed\'c5\'b0\'b0\'a1
+\f0  
+\f1 \'bc\'bc\'bc\'c7\'c0\'bb
+\f0  
+\f1 \'c2\'fc\'c1\'b6\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'b5\'b5\'b7\'cf
+\f0  
+\f1 \'c7\'e3\'bf\'eb
+\f0 \
+    xfbml      : true,  // 
+\f1 \'bc\'d2\'bc\'c8
+\f0  
+\f1 \'c7\'c3\'b7\'af\'b1\'d7\'c0\'ce\'c0\'cc
+\f0  
+\f1 \'c0\'d6\'c0\'b8\'b8\'e9
+\f0  
+\f1 \'c3\'b3\'b8\'aeㅋ
+\f0 \
+    version    : 'v2.1' // 
+\f1 \'b9\'f6\'c0\'fc
+\f0  2.1 
+\f1 \'bb\'e7\'bf\'eb
+\f0 \
+  \});\
+    FB.getLoginStatus(function(response) \{\
+      statusChangeCallback(response);\
+    \});\
+\
+  \};\
+\
+  (function(d, s, id) \{\
+    var js, fjs = d.getElementsByTagName(s)[0];\
+    if (d.getElementById(id)) return;\
+    js = d.createElement(s); js.id = id;\
+    js.src = "//connect.facebook.net/ko_KR/sdk.js";\
+    fjs.parentNode.insertBefore(js, fjs);\
+  \}(document, 'script', 'facebook-jssdk'));\
+\
+  function testAPI() \{\
+    FB.api('me?fields=id,name,picture,email', function(response) \{\
+		//
+\f1 \'c6\'e4\'ba\'cf\'b0\'a1\'c0\'d4\'c0\'da
+\f0  
+\f1 \'c5\'b8\'c0\'d3\'b6\'f3\'c0\'ce
+\f0 \
+		$.ajax(\{\
+            url:'./query.php?query=20&fbid='+response.id,\
+            dataType:'html',\
+            success:function(data)\{\
+		    if(data.trim()!='')\{\
+			 location.href="https://asked.kr/dokingkns";\
+			\}else\{\
+			post_to_url('fb_join.php', \{'reg_name':response.name,'reg_fbid':response.id, 'reg_fbemail':response.email\});\
+			\}\
+            \}\
+        \})\
+	  \
+    \});\
+  \}\
+function post_to_url(path, params, method) \{\
+    method = method || "post";  //method 
+\f1 \'ba\'ce\'ba\'d0\'c0\'ba
+\f0  
+\f1 \'c0\'d4\'b7\'c2\'be\'c8\'c7\'cf\'b8\'e9
+\f0  
+\f1 \'c0\'da\'b5\'bf\'c0\'b8\'b7\'ce
+\f0  post
+\f1 \'b0\'a1
+\f0  
+\f1 \'b5\'c8\'b4\'d9
+\f0 .\
+    var form = document.createElement("form");\
+    form.setAttribute("method", method);\
+    form.setAttribute("action", path);\
+    //input type hidden name(key) value(params[key]);\
+    for(var key in params) \{\
+        var hiddenField = document.createElement("input");\
+        hiddenField.setAttribute("type", "hidden");\
+        hiddenField.setAttribute("name", key);\
+        hiddenField.setAttribute("value", params[key]);\
+        form.appendChild(hiddenField);\
+    \}\
+    document.body.appendChild(form);\
+    form.submit();\
+\}\
+</script>\
+\
+\
+<script type="text/javascript">\
+  window._taboola = window._taboola || [];\
+  _taboola.push(\{article:'auto'\});\
+  !function (e, f, u, i) \{\
+    if (!document.getElementById(i))\{\
+      e.async = 1;\
+      e.src = u;\
+      e.id = i;\
+      f.parentNode.insertBefore(e, f);\
+    \}\
+  \}(document.createElement('script'),\
+  document.getElementsByTagName('script')[0],\
+  '//cdn.taboola.com/libtrc/redinmedia/loader.js',\
+  'tb_loader_script');\
+  if(window.performance && typeof window.performance.mark == 'function')\
+    \{window.performance.mark('tbl_ic');\}\
+</script> \
+\
+\
+</head>\
+\
+\
+\
+\
+\
+<script>\
+var chk = 0;\
+	function viewMenu()\{\
+	 $( "#toggle" ).toggle( "slide" );\
+	\}	\
+\
+   function sideMenu()\
+   \{\
+    viewMenu();\
+    if(chk == 0)\
+    \{\
+     document.getElementById("myarea").style.display = 'block';\
+	 document.getElementById("asked_back").style.display = 'block';\
+	 $("body").css(\{overflow:'hidden'\}).bind('touchmove', function(e)\{e.preventDefault()\});\
+	 document.body.style.overflow= 'hidden';\
+     chk=1;\
+    \}\
+    else\
+    \{\
+     document.getElementById("myarea").style.display = 'none';\
+	 document.getElementById("asked_back").style.display = 'none';\
+	 document.body.style.overflow= 'visible';\
+	 $("body").unbind('touchmove');\
+     chk=0;\
+    \}\
+   \}\
+\
+function appDown()\{\
+\
+var ua = String( navigator.userAgent ).toLowerCase();\
+		//
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5\'c0\'c7
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \
+		if(/android/.test(ua))\{\
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=6496173&Deeplink=true";\
+		\}else if(/iphone/.test(ua))\{\
+			location.href="https://goo.gl/JGKM92";\
+		\}\
+\
+\}\
+\
+\
+\
+\
+</script>\
+\
+  \
+<script>\
+function machk()\{\
+	alert('
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  1000
+\f1 \'b0\'b3\'ba\'ce\'c5\'cd
+\f0  
+\f1 \'bd\'c5\'c3\'bb
+\f0  
+\f1 \'b0\'a1\'b4\'c9\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .');	\
+\
+\}\
+\
+</script>\
+\
+<div id="asked_back" class=" asked_back" style="position: fixed;z-index: 100;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgba(0, 0, 0, 0.498039);" onClick="sideMenu()"></div>\
+<div id="myarea" class="myarea" style="display: none; position: fixed; left: 0px; top: 0px; height: 100%;z-index: 1000;background: #fff;">\
+\
+\
+<div style="width:100%; height:100%; overflow:scroll; -webkit-overflow-scrolling:touch;z-index: 100000;overflow-x: hidden;\
+    overflow-y: auto;">\
+<div id="page-wrapper" style="z-index: 1000;">\
+	<div id="sidebar-wrapper">\
+		<ul class="sidebar-nav">\
+		    					    <li class="side_menu_txt"><p class="side_middle_menu">
+\f1 \'b0\'e8\'c1\'a4
+\f0 </p></li>\
+					<li class="nico1"><a onclick="location.href='./';" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b0\'a1\'c0\'d4\'c7\'cf\'b1\'e2
+\f0  </a></li>\
+					<li class="nico2"><a onclick="location.href='./';" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b7\'ce\'b1\'d7\'c0\'ce
+\f0  </a></li>\
+					<li class="nico3"><a onclick="appDown();" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'be\'db\'b4\'d9\'bf\'ee
+\f0  </a></li>\
+					<li class="ico6"><a onclick="javascript:location.href='info.html'" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c3\'b3\'b8\'ae\'b9\'e6\'c4\'a7
+\f0 </a></li>\
+					<li class="ico6"><a onclick="javascript:location.href='service.html'" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'be\'e0\'b0\'fc
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'c1\'a4\'c3\'a5
+\f0 </a></li>\
+<li class="side_menu_txt"><p class="side_middle_menu">
+\f1 \'c1\'a4\'ba\'b8
+\f0 </p></li>\
+	<li class="nico4"><a onclick="javascript:location.href='notice/'" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b0\'f8\'c1\'f6\'bb\'e7\'c7\'d7
+\f0 </a></li>\
+	<li class="nico5"><a onclick="alert('help@asked.kr')" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b0\'ed\'b0\'b4\'bc\'be\'c5\'cd
+\f0 </a></li>\
+	<li class="ico6"><a onclick="javascript:location.href='info.html'" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8\'c3\'b3\'b8\'ae\'b9\'e6\'c4\'a7
+\f0 </a></li>\
+	<li class="ico6"><a onclick="javascript:location.href='service.html'" class="arrow">
+\f1 \'a1\'a1\'a1\'a1\'be\'e0\'b0\'fc
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'c1\'a4\'c3\'a5
+\f0 </a></li>\
+\
+		</ul>\
+		<p class="side_txt"><a href="service.html">
+\f1 \'c0\'cc\'bf\'eb\'be\'e0\'b0\'fc
+\f0  | </a> help@asked.kr</p>\
+	</div>\
+	</div>\
+	\
+</div>\
+</div>\
+\
+</div><body style="overflow-x:hidden">\
+\
+\
+\
+\
+\
+\
+\
+<div id="asked_back3" class=" asked_back2" style="position: fixed;z-index: 1005;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgba(0, 0, 0, 0.498039);" onClick="close_more();">\
+</div>\
+\
+\
+<div id="asked_back2" class=" asked_back2" style="position: fixed;z-index: 1005;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgb(0, 0, 0);" onClick="view_pto()">\
+<p id="cm" class="hh vc">\
+<a class="ico_close"></a>\
+</p>\
+</div>\
+\
+\
+<script>var more_app=0;var more_app2=0;</script>\
+\
+<script>\
+console.log('cafe24');\
+var page=0;\
+var chks=1;\
+var viewpage=0;\
+var scrol_chk=0;\
+$( window ).scroll(function() \{\
+	\
+ var scrollHeight = document.compatMode=="CSS1Compat"? document.documentElement.scrollHeight : document.body.scrollHeight;\
+ var clientHeight = document.compatMode=="CSS1Compat"? document.documentElement.clientHeight : document.body.clientHeight;\
+ var ScrollTop = $(document).scrollTop();\
+ var scrollPos = scrollHeight - ScrollTop;\
+\
+\
+ if (clientHeight + 300 > scrollPos)\
+ \{\
+  if(page!=-1 && chks==1 && viewpage==0 )\{\
+	if(more_app!=1 || more_app2==0)\{\
+			page+=1;\
+			chks=0;\
+			 $('.more').css("display", "block");\
+			 $.ajax(\{\
+            url:'./query.php?query=1&page='+page+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$($.trim(data)).appendTo('#cards');\
+			$('.more').css("display", "none");  \
+			cnt_re();\
+			chks=1;\
+\
+			if($.trim(data).length<20)\{\
+			page=-1;\
+			\}\
+            \}\
+        \})\
+\}\
+		\}else if(page!=-1 && chks==1 && viewpage==1 )\{\
+			page+=1;\
+			chks=0;\
+			 $('.more').css("display", "block");\
+			 $.ajax(\{\
+            url:'./query.php?query=2&page='+page+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$($.trim(data)).appendTo('#cards');\
+			$('.more').css("display", "none");  \
+			cnt_re();\
+			chks=1;\
+			if($.trim(data).length<20)\{\
+			page=-1;\
+			\}\
+            \}\
+        \})\
+		\}else if(page!=-1 && chks==1 && viewpage==2 )\{\
+			page+=1;\
+			chks=0;\
+			 $('.more').css("display", "block");\
+			 $.ajax(\{\
+            url:'./query.php?query=3&page='+page+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$($.trim(data)).appendTo('#cards');\
+			$('.more').css("display", "none");  \
+			cnt_re();\
+			chks=1;\
+			if($.trim(data).length<20)\{\
+			page=-1;\
+			\}\
+            \}\
+        \})\
+		\}\
+ \}\
+\});\
+\
+var currentState = history.state;\
+console.log(currentState);\
+\
+\
+\
+\
+function ask_post(id)\{\
+\
+$('.ask_bottom_buttom').attr('disabled',true);\
+\
+if(show_user == true)\{\
+	post_show_user='1';\
+\}else\{\
+	post_show_user='0';\
+\}\
+\
+\
+\
+var content= $('#ask_content').val();\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=0",   \
+      data: \{ id: id, content: content, makarong_bat: makarong_bat, show_user: post_show_user \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+		if($('.makarong_input').val()!='0')\{\
+			downmakarong = Number($('.sidebar_makarong_cnt').html())-Number($('.makarong_input').val());\
+			$('.sidebar_makarong_cnt').html(downmakarong);\
+			$('.my_makarong_input').val(downmakarong);\
+		 \}\
+		$('.ask_bottom_buttom').attr('disabled',false);\
+		if(/android/.test(ua))\{\
+				ask_cnt=get_ask_cnt();\
+				if(ask_cnt==0 || ask_cnt < 0)\{\
+				 $('#ask_content').attr('readonly','true');\
+				 $('#ask_content').attr('onclick' , 'go_app();');\
+				 $('.ask_btn').attr('onclick' , 'go_app();');\
+				\}\
+		\}\
+\
+      $('#ask_content').val("")\
+\
+  	    var ua = String( navigator.userAgent ).toLowerCase();\
+		//
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5\'c0\'c7
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \
+		if(/android/.test(ua))\{\
+			$('#asked_back3').css("display", "block");\
+			$('.new_ask_div').css("display", "block");\
+			document.body.scrollTop = 0;\
+\
+			history.pushState(null, null, location.href);\
+			window.onpopstate = function(event) \{\
+				close_back();\
+\
+			ga('send','event','
+\f1 \'c1\'fa\'b9\'ae\'ba\'b8\'b3\'bb\'b1\'e2
+\f0 ','click','
+\f1 \'ba\'f1\'b7\'ce\'b1\'d7\'c0\'ce
+\f0 ');\
+			\};\
+\
+		\}else if(/iphone/.test(ua))\{\
+			$('#new_bottom_div_right1').attr('onclick', 'location.href=\\'https://goo.gl/uEVPq4\\';');\
+			$('#asked_back3').css("display", "block");\
+			$('.new_ask_div').css("display", "block");\
+			document.body.scrollTop = 0;\
+			ga('send','event','
+\f1 \'c1\'fa\'b9\'ae\'ba\'b8\'b3\'bb\'b1\'e2
+\f0 ','click','
+\f1 \'ba\'f1\'b7\'ce\'b1\'d7\'c0\'ce
+\f0 ');\
+		\}else\{\
+			alert('
+\f1 \'b5\'ee\'b7\'cf\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+			ga('send','event','
+\f1 \'c1\'fa\'b9\'ae\'ba\'b8\'b3\'bb\'b1\'e2
+\f0 ','click','
+\f1 \'ba\'f1\'b7\'ce\'b1\'d7\'c0\'ce
+\f0 ');		\}\
+\
+      $('#counter').html('0' + '/500');\
+	  cnt_re();\
+	  com_ask();\
+      \}else\{\
+	 alert($.trim(data));\
+	 $('.ask_bottom_buttom').attr('disabled',false);\
+	\}\
+    \}\
+\})\
+\
+\}\
+\
+function go_app()\{\
+	location.href='market://details?id=com.mobions.asked&url=asked%3a%2f%2fstart%3flinkType%3d1%26contentId%3d'+208532664;\
+\}\
+\
+function close_back()\{\
+ $('#asked_back3').css("display", "none");\
+ $('.new_ask_div').css("display", "none");\
+ $('.new_ask_div2').css("display", "none");\
+\}\
+\
+function get_ask_cnt()\{\
+\
+var cookie = document.cookie;\
+var startIndexOf = cookie.indexOf('ask_cnt');\
+ \
+ \
+var endIndexOf = cookie.indexOf(';',startIndexOf);\
+if(endIndexOf == -1)endIndexOf = cookie.length;\
+ \
+var ask_cnt=cookie.substring(startIndexOf+'ask_cnt='.length, endIndexOf);\
+return ask_cnt;\
+\
+\}\
+\
+\
+function com_ask()\{\
+			\
+			$("#ask_complete").addClass("active");\
+			$("#ask_new").removeClass("active");\
+			$("#ask_rej").removeClass("active");\
+\
+var pages=0;\
+$.ajax(\{\
+            url:'./query.php?query=1&page='+pages+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$("#cards").html($.trim(data));\
+			cnt_re();\
+			page=0;\
+			viewpage=0;\
+\
+			if($.trim(data)=='')\{\
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');\
+			\}\
+            \}\
+\
+        \})\
+\
+\}\
+\
+function new_ask()\{\
+\
+			$("#ask_complete").removeClass("active");\
+			$("#ask_new").addClass("active");\
+			$("#ask_rej").removeClass("active");\
+\
+var pages=0;\
+$.ajax(\{\
+            url:'./query.php?query=2&page='+pages+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$("#cards").html($.trim(data));\
+			cnt_re();\
+			page=0;\
+			viewpage=1;\
+			if($.trim(data)=='')\{\
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');\
+			\}\
+            \}\
+\
+        \})\
+\
+\}\
+\
+function rej_ask_load()\{\
+\
+			$("#ask_complete").removeClass("active");\
+			$("#ask_new").removeClass("active");\
+			$("#ask_rej").addClass("active");\
+\
+var pages=0;\
+$.ajax(\{\
+            url:'./query.php?query=3&page='+pages+'&id=dokingkns' ,\
+            dataType:'html',\
+            success:function(data)\{\
+			$("#cards").html($.trim(data));\
+			cnt_re();\
+			page=0;\
+			viewpage=2;\
+			if($.trim(data)=='')\{\
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');\
+			\}\
+            \}\
+\
+        \})\
+\
+\}\
+//cnt load\
+function cnt_re()\{\
+$.ajax(\{\
+            url:'./query.php?query=4&id=dokingkns' ,\
+            dataType:'json',\
+            success:function(data)\{\
+			var cnt_re = new Array();\
+			var cnt_re = data;\
+			$('#compelte_count').html(cnt_re[0]);\
+			$('#new_count').html(cnt_re[1]);\
+			$('#reject_count').html(cnt_re[2]);\
+			if(cnt_re[3]==1)\{\
+			 $('.alram').addClass("nalram");\
+			 $('.nalram').removeClass("alram"); \
+			\}else\{\
+			 $('.nalram').addClass("alram");\
+			 $('.alram').removeClass("nalram"); \
+			\}\
+            \}\
+        \})\
+			refresh_timer();\
+\}\
+\
+\
+function registration_post(listnum,chk)\{\
+\
+var id ='dokingkns';\
+var content=$('#content_'+listnum).val();\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=5",   \
+      data: \{ id: id, content: content, listnum: listnum \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+		 if($('#time_'+listnum).html()!='00:00:00')\{\
+			upmakarong = Number($('#mcnt_'+listnum).html())+Number($('.sidebar_makarong_cnt').html());\
+			$('.sidebar_makarong_cnt').html(upmakarong);\
+			$('.my_makarong_input').val(upmakarong);\
+		 \}\
+	  var ua = String( navigator.userAgent ).toLowerCase();\
+		//
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5\'c0\'c7
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \
+		if(/android/.test(ua))\{\
+			$('#asked_back3').css("display", "block");\
+			$('.new_ask_div2').css("display", "block");\
+\
+			history.pushState(null, null, location.href);\
+			window.onpopstate = function(event) \{\
+				close_back();\
+				ga('send','event','
+\f1 \'b4\'e4\'ba\'af\'c7\'cf\'b1\'e2
+\f0 ','click','
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5
+\f0 ');\
+			\};\
+\
+		\}else if(/iphone/.test(ua))\{\
+			$('#new_bottom_div_right2').attr('onclick', 'location.href=\\'https://goo.gl/tjsmWp\\';');\
+			$('#asked_back3').css("display", "block");\
+			$('.new_ask_div2').css("display", "block");\
+			document.body.scrollTop = 0;\
+			ga('send','event','
+\f1 \'b4\'e4\'ba\'af\'c7\'cf\'b1\'e2
+\f0 ','click','
+\f1 \'be\'c6\'c0\'cc\'c6\'f9
+\f0 ');\
+\
+		\}else\{\
+			alert('
+\f1 \'b4\'e4\'ba\'af\'c0\'cc
+\f0  
+\f1 \'b5\'ee\'b7\'cf\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+			ga('send','event','
+\f1 \'b4\'e4\'ba\'af\'c7\'cf\'b1\'e2
+\f0 ','click','
+\f1 \'c0\'a5
+\f0 ');\
+		\}\
+	  cnt_re();\
+	   if(chk!=1)\{\
+	     $('#card_'+listnum).remove();\
+	     $('#answer_'+listnum).remove();\
+	     $('#answer_selector_'+listnum).remove();\
+	      new_ask();\
+	    \}else\{\
+		  $('#card_'+listnum+'>.card_answer').html(content);\
+		  $('#close_more_'+listnum).attr('onclick' , 'javascript:more_askre('+listnum+')');\
+	    \}\
+\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}else if($.trim(data)=="error:-3")\{\
+		alert('
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'c1\'fa\'b9\'ae\'c0\'ba
+\f0  
+\f1 \'bc\'f6\'c1\'a4\'c7\'cf\'bd\'c7
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'be\'f8\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+	\}else if($.trim(data)=="app")\{\
+		alert('
+\f1 \'be\'db\'bf\'a1\'bc\'ad
+\f0  
+\f1 \'b4\'e4\'ba\'af\'c7\'cf\'bd\'c7
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+	\}\
+    \}\
+\})\
+\
+\
+\
+\
+\
+\}\
+\
+\
+function rej_re_post(listnum)\{\
+\
+var id ='dokingkns';\
+var content=$('#rej_content_'+listnum).val();\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=5",   \
+      data: \{ id: id, content: content, listnum: listnum \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+	  alert("
+\f1 \'b4\'e4\'ba\'af\'c0\'cc
+\f0  
+\f1 \'b5\'ee\'b7\'cf\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .");\
+	  //$('.sidebar_makarong_cnt').html(Number($('#mcnt_'+listnum).html())+Number($('.sidebar_makarong_cnt').html()))\
+	 $('#card_'+listnum).remove();\
+	 $('#answer_'+listnum).remove();\
+	 $('#answer_selector_'+listnum).remove();\
+	  cnt_re();\
+	  rej_ask_load();\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}else if($.trim(data)=="error:ety")\{\
+		alert('
+\f1 \'b4\'e4\'ba\'af\'b3\'bb\'bf\'eb\'c0\'cc
+\f0  
+\f1 \'b0\'f8\'b9\'e9
+\f0  
+\f1 \'c0\'d4\'b4\'cf\'b4\'d9
+\f0 .');\
+	\}else if($.trim(data)=="error:-3")\{\
+		alert('
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'c1\'fa\'b9\'ae\'c0\'ba
+\f0  
+\f1 \'bc\'f6\'c1\'a4\'c7\'cf\'bd\'c7
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'be\'f8\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+	\}\
+    \}\
+\})\
+\
+\}\
+\
+function rej_ask(listnum,chk)\{\
+\
+if(chk == 1)\{\
+	confirms ='
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'b0\'c5\'c0\'fd
+\f0  
+\f1 \'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?\\n\\n24
+\f1 \'bd\'c3\'b0\'a3
+\f0  
+\f1 \'b3\'bb
+\f0  
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'bf\'a1
+\f0  
+\f1 \'b4\'e4\'ba\'af\'c0\'bb
+\f0 \\n
+\f1 \'ba\'b8\'b3\'bb\'c1\'d6\'bd\'c3\'b8\'e9
+\f0  
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'c0\'cc
+\f0  
+\f1 \'c0\'fb\'b8\'b3\'b5\'cb\'b4\'cf\'b4\'d9
+\f0 .';\
+\}else\{\
+	confirms ='
+\f1 \'bc\'b1\'c5\'c3\'c7\'d1
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'b0\'c5\'c0\'fd
+\f0  
+\f1 \'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?\\n
+\f1 \'c1\'fa\'b9\'ae
+\f0  
+\f1 \'b0\'c5\'c0\'fd
+\f0  
+\f1 \'c8\'c4
+\f0  
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b4\'e4\'ba\'af\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .';\
+\}\
+\
+if (confirm(confirms) == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+\
+var id ='dokingkns';\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=6",   \
+      data: \{ id: id, listnum: listnum \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+	 $('#card_'+listnum).remove();\
+	 $('#answer_'+listnum).remove();\
+	 $('#answer_selector_'+listnum).remove();\
+	  cnt_re();\
+	  new_ask();\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}\
+    \}\
+\})\
+\
+\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+    return;\
+\}\
+\
+\
+\
+\}\
+\
+\
+    var clipboard = new Clipboard('#share_down');\
+    clipboard.on('success', function(e) \{\
+	var url='url';\
+	$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=11",   \
+      data: \{ url:url \},\
+      success: function(data)\{ \
+    \}\
+	\})\
+		alert('
+\f1 \'c1\'d6\'bc\'d2\'b0\'a1
+\f0  
+\f1 \'ba\'b9\'bb\'e7\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'c1\'d6\'bc\'d2\'b8\'a6
+\f0  
+\f1 \'b0\'f8\'c0\'af\'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+        console.log(e);\
+    \});\
+    clipboard.on('error', function(e) \{\
+        javascript:linkshare();\
+		console.log(e);\
+    \});\
+	function linkshare()\{\
+	var url='url';\
+	$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=11",   \
+      data: \{ url:url \},\
+      success: function(data)\{ \
+    \}\
+	\})\
+	 var inputString = prompt('
+\f1 \'c1\'d6\'bc\'d2\'b8\'a6
+\f0  
+\f1 \'ba\'b9\'bb\'e7\'c7\'cf\'bf\'a9
+\f0  
+\f1 \'b0\'f8\'c0\'af\'c7\'d8\'ba\'b8\'bc\'bc\'bf\'e4
+\f0 .', 'https://asked.kr/dokingkns');\
+	\}\
+\
+\
+//re_form load\
+function showRe(num)\{\
+\
+    // html dom 
+\f1 \'c0\'cc
+\f0  
+\f1 \'b4\'d9
+\f0  
+\f1 \'b7\'ce\'b5\'f9\'b5\'c8
+\f0  
+\f1 \'c8\'c4
+\f0  
+\f1 \'bd\'c7\'c7\'e0\'b5\'c8\'b4\'d9
+\f0 .\
+        // menu 
+\f1 \'c5\'ac\'b7\'a1\'bd\'ba
+\f0  
+\f1 \'b9\'d9\'b7\'ce
+\f0  
+\f1 \'c7\'cf\'c0\'a7\'bf\'a1
+\f0  
+\f1 \'c0\'d6\'b4\'c2
+\f0  a 
+\f1 \'c5\'c2\'b1\'d7\'b8\'a6
+\f0  
+\f1 \'c5\'ac\'b8\'af\'c7\'df\'c0\'bb\'b6\'a7
+\f0 \
+            var submenu = $('#answer_'+num);\
+            // submenu 
+\f1 \'b0\'a1
+\f0  
+\f1 \'c8\'ad\'b8\'e9\'bb\'f3\'bf\'a1
+\f0  
+\f1 \'ba\'b8\'c0\'cf\'b6\'a7\'b4\'c2
+\f0  
+\f1 \'c0\'a7\'b7\'ce
+\f0  
+\f1 \'ba\'b8\'b5\'e5\'b6\'f8\'b0\'d4
+\f0  
+\f1 \'c1\'a2\'b0\'ed
+\f0  
+\f1 \'be\'c6\'b4\'cf\'b8\'e9
+\f0  
+\f1 \'be\'c6\'b7\'a1\'b7\'ce
+\f0  
+\f1 \'ba\'b8\'b5\'e5\'b6\'f8\'b0\'d4
+\f0  
+\f1 \'c6\'ee\'c4\'a1\'b1\'e2
+\f0 \
+            if( submenu.is(":visible") )\{\
+                submenu.slideUp(250);\
+            \}else\{\
+                submenu.slideDown(250);\
+				$('html, body').animate(\{\
+			      scrollTop: $("#answer_"+num).offset().top - document.body.clientHeight + $("#answer_"+num).height()+210\
+				\}, 600);\
+            \}\
+\}\
+\
+//cntcheck\
+$(function() \{\
+      $('#ask_content').keyup(function (e)\{\
+          var content = $(this).val();\
+          $('#counter').html(content.length + '/500');\
+      \});\
+      $('#ask_content').keyup();\
+\});\
+\
+\
+\
+function close_more(num)\{\
+			$('.new_ask_div').css("display", "none");\
+			var asked_back3 = $('#asked_back3');\
+            var close_more = $('#closemore_'+num);\
+\
+\
+            if( asked_back3.is(":visible") )\{\
+	            asked_back3.css("display", "none");\
+	            document.body.style.overflow= 'visible';\
+				$("body").unbind('touchmove');\
+                close_more.css("display", "none");\
+				$('#report_post_div').css("display", "none");\
+				$('.join_pop').css("display", "none");\
+            \}else\{\
+			    asked_back3.css("display", "block");\
+			    document.body.style.overflow= 'hidden';\
+				$("body").css(\{overflow:'hidden'\}).bind('touchmove', function(e)\{e.preventDefault()\});\
+			    close_more.css("display", "block");\
+				asked_back3.attr('onclick','close_more('+num+')');\
+            \}\
+\}\
+\
+function login_pop()\{\
+	close_more();\
+	$('.join_pop').css("display", "block");\
+	document.body.scrollTop = 0;\
+\}\
+\
+//
+\f1 \'b4\'e4\'ba\'af\'bf\'cf\'b7\'e1
+\f0  
+\f1 \'c5\'c7\'bf\'a1\'bc\'ad
+\f0  
+\f1 \'bc\'f6\'c1\'a4\'c7\'cf\'b1\'e2
+\f0  1024\
+function more_askre(listnum)\{\
+\
+\
+if (confirm('
+\f1 \'b4\'e4\'ba\'af
+\f0  
+\f1 \'b3\'bb\'bf\'eb\'c0\'bb
+\f0  
+\f1 \'bc\'f6\'c1\'a4\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ??') == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+var tempask=$('#card_'+listnum+'>.card_answer').html();\
+$('#card_'+listnum+'>.card_answer').html('<textarea id="content_'+listnum+'" maxlength="1000" class="input_answer" name="content" onclick="close_ad();" onblur="open_ad();"></textarea><div class="answer_bottom_div"><div class="answer_bottom"><p>
+\f1 \'c3\'d6\'b4\'eb
+\f0  1000
+\f1 \'c0\'da\'b1\'ee\'c1\'f6
+\f0  
+\f1 \'c0\'d4\'b7\'c2\'b0\'a1\'b4\'c9\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .</p></div><button type="button" class="answer_bottom_buttom" onclick="javascript:registration_post('+listnum+',1);"><span>
+\f1 \'b4\'e4\'ba\'af\'b5\'ee\'b7\'cf
+\f0 </span></button></div>');\
+$('#content_'+listnum).val($.trim(tempask));\
+close_more(listnum);\
+$('#close_more_'+listnum).removeAttr('onclick');\
+\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+    return;\
+\}\
+\}\
+\
+\
+function close_up(listnum)\{\
+\
+if (confirm('
+\f1 \'b4\'e4\'ba\'af
+\f0  
+\f1 \'b3\'bb\'bf\'eb\'c0\'bb
+\f0  
+\f1 \'bb\'e8\'c1\'a6\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?\\n
+\f1 \'bb\'e8\'c1\'a6\'c7\'d1
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'ba
+\f0  
+\f1 \'bb\'f5\'c1\'fa\'b9\'ae\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'c0\'cc\'b5\'bf\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .') == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+\
+var id ='dokingkns';\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=7",   \
+      data: \{ id: id, listnum: listnum \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+	  $('#card_'+listnum).remove();\
+	  $('#bottomline_'+listnum).remove();\
+	  document.body.style.overflow= 'visible';\
+	  $("body").unbind('touchmove');\
+	  $('#asked_back3').css("display", "none");\
+	  cnt_re();\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}else if($.trim(data)=="error:-3")\{\
+	 alert("
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  
+\f1 \'b4\'e4\'ba\'af\'c0\'ba
+\f0  
+\f1 \'bb\'e8\'c1\'a6\'c7\'cf\'bd\'c7
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'be\'f8\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .");\
+	\}\
+    \}\
+\})\
+\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+    return;\
+\}\
+\}\
+\
+function copy_link(listnum)\{\
+\
+\
+\}\
+\
+\
+//
+\f1 \'b4\'e4\'ba\'af\'bb\'e8\'c1\'a6
+\f0 \
+function delete_ask(listnum, chk)\{\
+\
+if(chk == 1)\{\
+	confirms ='
+\f1 \'c7\'d8\'b4\'e7
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'bb\'e8\'c1\'a6
+\f0  
+\f1 \'c7\'d2
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \\n
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'c0\'ba
+\f0  
+\f1 \'c0\'fb\'b8\'b3\'b5\'c7\'c1\'f6
+\f0  
+\f1 \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .';\
+\}else\{\
+	confirms ='
+\f1 \'b0\'c5\'c0\'fd
+\f0  
+\f1 \'b3\'bb\'bf\'eb\'c0\'bb
+\f0  
+\f1 \'bb\'e8\'c1\'a6\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?\\n
+\f1 \'bb\'e8\'c1\'a6\'c7\'d1
+\f0  
+\f1 \'c1\'fa\'b9\'ae\'c0\'ba
+\f0  
+\f1 \'ba\'b9\'b1\'b8\'b5\'c7\'c1\'f6
+\f0  
+\f1 \'be\'ca\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .';\
+\}\
+\
+if (confirm(confirms) == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+\
+\
+var id ='dokingkns';\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=10",   \
+      data: \{ id: id, listnum: listnum \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+	  $('#card_'+listnum).remove();\
+	  $('#answer_selector_'+listnum).remove();\
+	  $('#answer_'+listnum).remove();\
+	  $('#asked_back3').css("display", "none");\
+	  document.body.style.overflow= 'visible';\
+	  $("body").unbind('touchmove');\
+	  cnt_re();\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}\
+    \}\
+\})\
+\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+    return;\
+\}\
+\}\
+\
+\
+\
+\
+\
+\
+//
+\f1 \'b0\'f8\'c0\'af\'c7\'cf\'b1\'e2
+\f0 \
+function fb_share_click()\{\
+	var url='fb';\
+	$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=11",   \
+      data: \{ url:url \},\
+      success: function(data)\{ \
+    \}\
+	\})\
+	window.open('https://www.facebook.com/sharer/sharer.php?u=http://asked.kr/dokingkns', '_blank'); \
+\}\
+\
+function tw_share_click()\{\
+	var url='tw';\
+	$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=11",   \
+      data: \{ url:url \},\
+      success: function(data)\{ \
+    \}\
+	\})\
+	window.open('https://twitter.com/intent/tweet?text=
+\f1 \'c0\'cd\'b8\'ed\'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'b3\'b2\'b0\'dc\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .&url=http://asked.kr/dokingkns', '_blank'); \
+\
+\}\
+\
+function ks_share_click()\{\
+	var url='kt';\
+	$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=11",   \
+      data: \{ url:url \},\
+      success: function(data)\{ \
+    \}\
+	\})\
+	window.open('https://story.kakao.com/share?url=http://asked.kr/dokingkns', '_blank'); \
+\}\
+\
+\
+\
+function rating(num)\{\
+\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=12",   \
+      data: \{ num: num \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+		 rating_complete(num);\
+      \}else\{\
+	if (confirm('
+\f1 \'be\'db\'bf\'a1\'bc\'ad
+\f0  
+\f1 \'c0\'cc\'bf\'eb\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'be\'db
+\f0  
+\f1 \'b4\'d9\'bf\'ee
+\f0  
+\f1 \'c8\'ad\'b8\'e9\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'c0\'cc\'b5\'bf\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .') == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+		\
+		var ua = String( navigator.userAgent ).toLowerCase();\
+		//
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5\'c0\'c7
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \
+		if(/android/.test(ua))\{\
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=2704199&Deeplink=true";\
+		\}else if(/iphone/.test(ua))\{\
+			location.href="https://goo.gl/NpNJAs";\
+		\}\
+	\
+		\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+		 return;\
+		\}\
+	\}\
+    \}\
+\})\
+\
+\
+\}\
+\
+function rating_complete(num)\{\
+  var rating = $('#rating_'+num);\
+  var rating_cnt = $('#rating_cnt_'+num);\
+  var cnt=$('#rating_cnt_'+num).html();\
+  if(!rating.is(".heart_click"))\{\
+	rating.addClass("heart_click");\
+	rating_cnt.addClass("rating_cnt_click");\
+	$('#rating_cnt_'+num).html(++cnt);\
+  \}else\{\
+    rating.removeClass("heart_click");\
+	rating_cnt.removeClass("rating_cnt_click");\
+	$('#rating_cnt_'+num).html(--cnt);\
+  \}\
+\}\
+\
+\
+\
+function view_pto()\{\
+	var view_pto = $('#asked_back2');\
+	if( view_pto.is(":invisible") )\{\
+	$('#asked_back2').css("display", "none");\
+	document.body.style.overflow= 'invisible';\
+	$("body").unbind('touchmove');\
+	\}else\{\
+	$('#asked_back2').css("display", "block");\
+	document.body.style.overflow= 'hidden';\
+	$("body").css(\{overflow:'hidden'\}).bind('touchmove', function(e)\{e.preventDefault()\});\
+	\}\
+\}\
+\
+function report_ask_list(num)\{\
+	var id ='';\
+   if(id!='')\{\
+	var close_more = $('#closemore_'+num);\
+\
+  close_more.css("display", "none");\
+  $('#report_post_div').css("display", "block");\
+  $('.bottom_div_right').attr('onclick', 'report_ask_confirm('+num+')');\
+\
+\
+\
+  if($("#control_div_check").length==0)\{\
+	$('.control_div').html('<p id="control_div_check" ></p><label class="control control--radio">
+\f1 \'b1\'ab\'b7\'d3\'c8\'fb
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'bf\'c2\'b6\'f3\'c0\'ce
+\f0  
+\f1 \'bf\'d5\'b5\'fb
+\f0 <input type="radio" name="report" value="BU" checked="checked"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'c0\'da\'bb\'ec
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'c0\'da\'c7\'d8
+\f0 <input type="radio" name="report" value="SC"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'c7\'f8\'bf\'c0\'b9\'df\'be\'f0
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'bf\'e5\'bc\'b3
+\f0 <input type="radio" name="report" value="AB"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'c6\'f8\'b7\'c2
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b9\'fc\'c1\'cb
+\f0  
+\f1 \'c8\'b0\'b5\'bf
+\f0  
+\f1 \'c0\'af\'b5\'b5
+\f0 <input type="radio" name="report" value="VL"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'c0\'bd\'b6\'f5\'b9\'b0
+\f0 , 
+\f1 \'bc\'ba\'c0\'fb
+\f0  
+\f1 \'c8\'f1\'b7\'d5
+\f0 , 
+\f1 \'bd\'c5\'c3\'bc\'b3\'eb\'c3\'e2
+\f0 <input type="radio" name="report" value="SX"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'c8\'ab\'ba\'b8
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'bb\'f3\'be\'f7\'c0\'fb
+\f0  
+\f1 \'b1\'a4\'b0\'ed
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'b5\'b5\'b9\'e8
+\f0 <input type="radio" name="report" value="PM"><div class="control__indicator"></div></label><label class="control control--radio">
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'bf\'e4\'c3\'bb
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b1\'e2\'c5\'b8
+\f0 <input type="radio" name="report" value="PV"><div class="control__indicator"></div></label>');\
+	$('.control-group').css("height","366px"); \
+	$('.control_div').css("padding-left","10px"); \
+	$('<div class="bottom_div"><div class="bottom_div_left" onclick="close_more();">
+\f1 \'c3\'eb\'bc\'d2
+\f0 </div><div class="bottom_div_right" onclick="report_ask_confirm('+num+')">
+\f1 \'c8\'ae\'c0\'ce
+\f0 </div></div>').appendTo('.control-group');\
+  \}\
+   \}else\{\
+	   alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce\'c8\'c4
+\f0  
+\f1 \'bb\'e7\'bf\'eb\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+   \}\
+\}\
+\
+\
+function report_ask_confirm(num)\{\
+	var report_type=$(':radio[name="report"]:checked').val();\
+	$('#report_type').val(report_type);\
+	$('#report_num').val(num);\
+\
+var chks=1;\
+	if(chks==0)\{\
+	$('.control_div').html('<div class="report_div_tab1" onclick="report_ask(\\''+report_type+'\\',\\''+num+'\\',\\'0\\');">
+\f1 \'b0\'d4\'bd\'c3\'b9\'b0
+\f0  
+\f1 \'bd\'c5\'b0\'ed
+\f0 </div><div class="report_div_tab2" onclick="report_ask(\\''+report_type+'\\',\\''+num+'\\',\\'1\\');">
+\f1 \'b0\'d4\'bd\'c3\'b9\'b0
+\f0  
+\f1 \'bd\'c5\'b0\'ed
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'c0\'db\'bc\'ba\'c0\'da
+\f0  
+\f1 \'c2\'f7\'b4\'dc
+\f0 </div>');\
+	$('.control-group').css("height","180px"); \
+	\}else if(chks==1)\{\
+	$('.control_div').html('<div class="report_div_tab1" onclick="report_ask(\\''+report_type+'\\',\\''+num+'\\',\\'2\\');">
+\f1 \'b0\'d4\'bd\'c3\'b9\'b0
+\f0  
+\f1 \'bd\'c5\'b0\'ed
+\f0 </div>');\
+	$('.control-group').css("height","130px"); \
+	\}\
+\
+	$('.bottom_div').remove();\
+	\
+	$('.control_div').css("padding-left","0px"); \
+\}\
+\
+\
+\
+function report_ask(report_type,listnum,chk)\{\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=15",   \
+      data: \{ report_type: report_type, listnum: listnum, chk:chk \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+	  alert('
+\f1 \'c1\'fa\'b9\'ae\'c0\'cc
+\f0  
+\f1 \'bd\'c5\'b0\'ed\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+	  history.go(0);\
+      \}else if($.trim(data)=="error:2")\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c1\'a4\'ba\'b8\'b0\'a1
+\f0  
+\f1 \'b8\'b8\'b7\'e1\'b5\'c7\'be\'fa\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 . \\n 
+\f1 \'b4\'d9\'bd\'c3
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .');\
+	 location.href="https://asked.kr";\
+	\}\
+    \}\
+\})\
+\}\
+\
+\
+\
+function get_memb_id()\{\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=19",   \
+      success: function(data)\{ \
+	  data=$.trim(data);\
+	 if(data=="false")\{\
+		 return false;\
+		  \
+	\}\
+    \}\
+\})\
+\}\
+\
+function following(num)\{\
+var fw = $('#fw_'+num);\
+\
+$.ajax(\{   \
+      type: "POST",   \
+      url: "./query.php?query=22",   \
+      data: \{ num: num \},\
+      success: function(data)\{ \
+	 if($.trim(data)=="success")\{\
+		 //rating_complete(id);\
+		fw.removeClass("fwmoff");\
+		fw.removeClass("fwmon")\
+		\
+		fw.addClass("fwmon");\
+      \}else if($.trim(data)=="success2")\{\
+		 //rating_complete(id);\
+		 fw.removeClass("fwmon");\
+		 fw.removeClass("fwmoff");\
+\
+		fw.addClass("fwmoff");\
+      \}else\{\
+	 alert('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce\'c8\'c4
+\f0  
+\f1 \'bb\'e7\'bf\'eb\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');\
+	\}\
+    \}\
+\})\
+\
+\
+\}\
+\
+\
+			slideChk = 0;\
+			$(document).ready(function()\{\
+\
+				//$('#foin_close_03F5')[0].innerHTML='<a href="javascript:closeBtn_03F5()"><img src="./close_btn22.gif" style="height: 22px;width: 22px;"></a>';\
+				var topBar = $(".mobileads").offset();\
+				var myscrol=0;\
+				$(window).scroll(function()\{\
+\
+					var docScrollY = $(document).scrollTop()\
+					var barThis = $(".ask_selector");\
+					var top_bar_fix_ad = $("#top_ad");\
+					var fixNext = $("#cards");\
+\
+\
+\
+\
+					var top_ad = $(".mobileads");\
+\
+					if( docScrollY > 509 ) \{\
+						scrol_chk=1;\
+						top_ad.addClass("top_ad_fix");\
+						if(slideChk == 0)\{\
+							top_ad.css("display", "none");\
+							if(adscrol == 1)\{\
+								$(".mobileads").slideDown(250);\
+							\}\
+							slideChk = 1;\
+						\}\
+						\
+					\}else\{\
+\
+						top_ad.removeClass("top_ad_fix");\
+						if(adscrol == 1)\{\
+							top_ad.css("display", "block");\
+						\}\
+						slideChk = 0;\
+					\}\
+\
+				\});\
+\
+			\})\
+\
+\
+function app_install()\{\
+	if (confirm('
+\f1 \'be\'db\'bf\'a1\'bc\'ad
+\f0  
+\f1 \'c0\'cc\'bf\'eb\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'be\'db
+\f0  
+\f1 \'b4\'d9\'bf\'ee
+\f0  
+\f1 \'c8\'ad\'b8\'e9\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'c0\'cc\'b5\'bf\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .') == true)\{    //
+\f1 \'c8\'ae\'c0\'ce
+\f0 \
+		\
+		var ua = String( navigator.userAgent ).toLowerCase();\
+		//
+\f1 \'be\'c8\'b5\'e5\'b7\'ce\'c0\'cc\'b5\'e5\'c0\'c7
+\f0  
+\f1 \'b0\'e6\'bf\'ec
+\f0 \
+		if(/android/.test(ua))\{\
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=2704199&Deeplink=true";\
+		\}else if(/iphone/.test(ua))\{\
+			location.href="https://goo.gl/NpNJAs";\
+		\}\
+	\}\
+\}\
+\
+function back()\{\
+\
+ history.go(-1);\
+\
+\
+\}\
+\
+\
+adscrol=1;\
+function open_ad()\{\
+	$('#askedTitle').css("display", "block");\
+	$('.ask_selector').css("display", "block");\
+	adscrol=1;\
+\}\
+\
+function close_ad()\{\
+	$('#askedTitle').css("display", "none");\
+	$('.ask_selector').css("display", "none");\
+	adscrol=0;\
+\}\
+\
+function cash_scroll_down()\{\
+ $('.cash_ask_div').slideDown(300);\
+ $(".makarong_pay_btn").addClass("makarong_pay_btn_chk");\
+ $(".makarong_btn").addClass("makarong_up_btn");\
+ $('.makarong_pay_btn').attr('onclick' , 'cash_scroll_up();');\
+ $('.min_maka').css("display", "block"); \
+ $('#counter').css("display", "none"); \
+ close_ad();\
+\}\
+function cash_scroll_up()\{\
+ open_ad();\
+ $('.cash_ask_div').slideUp(300);\
+ $(".makarong_pay_btn").removeClass("makarong_pay_btn_chk");\
+ if(makarong_bat==-1)\{\
+	$(".makarong_btn").removeClass("makarong_up_btn");\
+ \}\
+ $('.makarong_pay_btn').attr('onclick' , 'cash_scroll_down();');\
+ $('.min_maka').css("display", "none"); \
+ $('#counter').css("display", "block"); \
+\}\
+\
+\
+//
+\f1 \'bd\'c3\'b0\'a3\'b0\'a1\'c1\'ae\'bf\'c0\'b1\'e2
+\f0 \
+\
+\
+\
+    function toMMSS(sec_num) \{\
+        var pad = function(x) \{\
+            return (x < 10) ? "0" + x : x;\
+        \}\
+        return pad(parseInt(sec_num / (60 * 60))) + ":" +\
+            pad(parseInt(sec_num / 60 % 60)) + ":" +\
+            pad(sec_num % 60)\
+    \}\
+\
+\
+    function refresh_timer() \{\
+		$('.makarong_time_bar').each(function(index) \{\
+		makarong_time = $(this).attr("time");\
+		if (makarong_time <= 18000) \{\
+            $(this).attr('id', 'makarong_core_nantime');  \
+        \}\
+		\
+		if (makarong_time <= 7200) \{\
+            $(this).attr('id', 'makarong_core_nantime2');  \
+        \} \
+\
+            $(this)\
+                .width(100 * (makarong_time / 86400) + "%")\
+        \
+        if (makarong_time > 0)\{\
+		        makarong_time--;\
+				$(this).children().first().html(toMMSS(makarong_time));\
+				$(this).attr("time",makarong_time);\
+		\}else\{\
+			$(this).children().first().html('00:00:00');\
+		\}\
+		\
+\
+		\});\
+\
+		\
+    \}\
+\
+\
+    var timer = setInterval(refresh_timer, 1000);\
+\
+\
+makarong_bat = -1;\
+function makarong_batting()\{\
+	makarong_bat=$('.makarong_input').val();\
+	if(Number($('.makarong_input').val()) != '0')\{\
+		if(Number($('.makarong_input').val()) > Number($('.my_makarong_input').val()))\{\
+			alert("
+\f1 \'ba\'b8\'c0\'af\'c7\'cf\'bd\'c5
+\f0  
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'ba\'b8\'b4\'d9
+\f0  
+\f1 \'b8\'b9\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .");\
+		\}else\{\
+			$('.makarong_pay_btn').html(makarong_bat+'
+\f1 \'b0\'b3
+\f0 ');\
+			cash_scroll_up();\
+			$(".makarong_btn").addClass("makarong_up_btn");\
+		\}\
+	\}else\{\
+		cash_scroll_up();\
+		makarong_bat = -1;\
+		$(".makarong_btn").removeClass("makarong_up_btn");\
+	\}\
+\}\
+\
+\
+show_user = false;\
+function ask_user_show()\{\
+	if(!show_user)\{\
+		if('N' != 'N' )\{\
+			show_user = true;\
+			$('#user_show_txt').html('
+\f1 \'b0\'f8\'b0\'b3
+\f0  
+\f2 \uc0\u9660 
+\f0 ');\
+			//$('#user_show_profile').attr('style' , 'background-image: url(https://s3.ap-northeast-2.amazonaws.com/asking-nfs/asking);');\
+		\}else\{\
+			alert('
+\f1 \'b0\'f8\'b0\'b3\'c1\'fa\'b9\'ae\'c0\'ba
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c8\'c4
+\f0  
+\f1 \'bb\'e7\'bf\'eb
+\f0  
+\f1 \'b0\'a1\'b4\'c9\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .');\
+		\}\
+	\}else\{\
+			show_user = false;\
+			$('#user_show_txt').html('
+\f1 \'c0\'cd\'b8\'ed
+\f0  
+\f2 \uc0\u9660 
+\f0 ');\
+			//$('#user_show_profile').attr('style' , '');\
+	\}\
+\}\
+\
+\
+function peep_ask(id)\{\
+\
+	if (confirm('
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  2
+\f1 \'b0\'b3\'b8\'a6
+\f0  
+\f1 \'c0\'cc\'bf\'eb\'c7\'d8
+\f0  
+\f1 \'b4\'e4\'ba\'af\'c0\'bb
+\f0  
+\f1 \'c8\'ae\'c0\'ce\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?') == true)\{\
+		$.ajax(\{   \
+			  type: "POST",   \
+			  url: "./query.php?query=26",   \
+			  data: \{ id: id \},\
+			  success: function(data)\{ \
+			 if($.trim(data)=="success")\{\
+				location.href='/deep_link.php?contents='+id;\
+			  \}else if($.trim(data)=="login")\{\
+				  if (confirm('
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c8\'c4
+\f0  
+\f1 \'bb\'e7\'bf\'eb\'c7\'cf\'bd\'c7
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c8\'ad\'b8\'e9\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'c0\'cc\'b5\'bf\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?') == true)\{\
+					location.href='/';\
+				  \}\
+			  \}else if($.trim(data)=="ncash")\{\
+				  if (confirm('
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'c0\'cc
+\f0  
+\f1 \'ba\'ce\'c1\'b7\'c7\'d5\'b4\'cf\'b4\'d9
+\f0 .\\n
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5\'b1\'b8\'b8\'c5
+\f0  
+\f1 \'c8\'ad\'b8\'e9\'c0\'b8\'b7\'ce
+\f0  
+\f1 \'c0\'cc\'b5\'bf\'c7\'cf\'bd\'c3\'b0\'da\'bd\'c0\'b4\'cf\'b1\'ee
+\f0 ?') == true)\{\
+					location.href='/';\
+				  \}\
+			  \}else\{\
+			 alert($.trim(data));\
+			\}\
+			\}\
+		\})\
+	\}else\{   //
+\f1 \'c3\'eb\'bc\'d2
+\f0 \
+		return;\
+	\}\
+\
+\}\
+\
+</script>\
+\
+\
+\
+\
+\
+\
+<div id="askedTop">\
+<div id="askedTitle">\
+<div id="userTopName"><a href="dokingkns">dokingkns</a></div><button type="button" id="myLogin" onclick="jvavscript:location.href='./';"><span class="menu_txt">
+\f1 \'b0\'a1\'c0\'d4\'c7\'cf\'b1\'e2
+\f0 </span></button><button type="button" id="menuBtn" onclick="jvavscript:sideMenu();"></button><div class="mobileads" style="background:#7986cb;height: 35px;z-index:15;">\
+<a onclick="mobilead_loc();">\
+<img id="btm_ad" src="./img/mobileTopAd.png" height="35" style="\
+    position: absolute;\
+    left: calc(50% - 157px);\
+    z-index: 10;\
+"></a>\
+</div>\
+\
+</div>\
+\
+\
+\
+\
+<div id="myProfile">\
+\
+  <div id="profileTop">\
+    <div class="profile_bg">\
+      <div class="profile_wrapper"  id="fburl">\
+        <div class="profile_pic" id="profile_image"></div>\
+      </div>\
+	    </div>\
+    <div class="profile_id">\
+       
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2
+\f0  <span class="profile_certification"></span>\
+    </div>\
+    <div class="profile_mention">\
+       
+\f1 \'c0\'cd\'b8\'ed\'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'b3\'b2\'b0\'dc\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .    </div>\
+\
+<div class="menLine"></div>\
+\
+\
+\
+	<div class="fwcnt"><span class="fo_txt">
+\f1 \'c6\'c8\'b7\'ce\'bf\'f6
+\f0 </span> <span class="fo_cnt">0</span></div><div id="fwdiv_208532664"><button id="fw_208532664" onclick="following(208532664)" class="following fwmoff"></button></div>\
+  </div>\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+</div>\
+\
+  <div id="askWrap">\
+\
+\
+					\
+\
+	<div class="ask_div" style="display: block;">\
+\
+			<textarea id="ask_content" class="input_ask" name="content" maxlength="500"  placeholder="
+\f1 \'c1\'fa\'b9\'ae\'c0\'bb
+\f0  
+\f1 \'c0\'d4\'b7\'c2\'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 ."></textarea>\
+\
+		\
+\
+	</div>\
+\
+	<div>\
+\
+\
+\
+\
+	<div class="profile_chk_btn" onclick="ask_user_show();"><span id="user_show_txt">
+\f1 \'c0\'cd\'b8\'ed
+\f0  
+\f2 \uc0\u9660 
+\f0 </span></div>\
+			<button type="button" class="ask_bottom_buttom" onclick="ask_post('dokingkns');">\
+				<span>
+\f1 \'c1\'fa\'b9\'ae\'c7\'cf\'b1\'e2
+\f0 </span>\
+			</button>\
+			</div>\
+\
+\
+\
+<style>\
+\
+.ad-icons \{\
+    background-image: url(icos.png);\
+    background-size: 12px 12px;\
+    width: 12px;\
+    height: 12px;\
+    margin-top: 2px;\
+    position: absolute;\
+\}\
+\
+.ad-area \{\
+    font-size: 15px;\
+    margin-left: 5px;\
+    color: #111;\
+    font-weight: bold;\
+    margin-top: 2px;\
+    margin-bottom: 15px;\
+\}\
+\
+.ad-imgs\{\
+  margin-left: -12px;\
+\}\
+\
+\
+.min_maka \{\
+    font-size: 10px;\
+    margin-right: 10px;\
+    margin-top: 5px;\
+    display: block;\
+    float: right;\
+    color: #000;\
+\}\
+\
+.menu_select_div \{\
+    margin-top: 20;\
+    text-align: center;\
+    margin-bottom: -10px;\
+\}\
+\
+.menu_select_1 \{\
+    background: url(../img/ask_post_store.png);\
+    background-repeat: no-repeat;\
+    background-size: 150px;\
+    background-position: 0;\
+    width: 150px;\
+    height: 90px;\
+    border: 0px;\
+    margin-top: -30px;\
+    outline-style: none;\
+    margin-left: 0px;\
+    margin-right: 0px;\
+    margin-left: 10px;\
+    float: left;\
+\}\
+\
+#profileSponCard\{\
+ padding: 2 5 0 0;\
+ height:55px;\
+\}\
+\
+\
+.menu_select_2 \{\
+    background: url(../img/mymakarong.png);\
+    background-repeat: no-repeat;\
+    background-size: 150px;\
+    background-position: 0;\
+    width: 150px;\
+    height: 90px;\
+    border: 0px;\
+    margin-left: 10px;\
+    margin-top: -30px;\
+    outline-style: none;\
+    margin-right: 10px;\
+    float: right;\
+\}\
+\
+#askedTop \{\
+    background: #fff;\
+\}\
+\
+#main_ads \{\
+	margin-top: 2px;\
+\}\
+\
+.se_div \{\
+    margin-top: 20px;\
+    margin-left: 0px;\
+\}\
+\
+.se2_div \{\
+    margin-top: 3px;\
+    margin-left: 0px;\
+\}\
+\
+.my_ma_cnt\{\
+   font-size: 11px;\
+	color: #333;\
+	margin-right:3px;\
+	font-weight: bold;\
+\}\
+\
+\
+.my_ma_cnt2\{\
+    font-size: 11px;\
+	color:#eb6380;\
+	margin-right:3px;\
+	font-weight: bold;\
+\}\
+\
+#my_ma_in\{\
+    width: 60px;\
+    border-radius: 20px;\
+    border: 1px solid #bdbdbd;\
+    text-align: right;\
+    padding-right: 10px;\
+	height: 22px;\
+    background: #f0f0f0;\
+\}\
+\
+\
+\
+#my_ma_in2\{\
+    width: 60px;\
+    border-radius: 20px;\
+    border: 1px solid #eb6380;\
+	text-align: right;\
+	padding-right: 10px;\
+	height: 22px;\
+\
+\}\
+</style>\
+\
+\
+\
+\
+			<div class="cash_ask_div">\
+				<button type="button" class="makarong_post" onclick="location.href='makarong_pop.php'";></button>\
+\
+\
+				<div class="menu_select_div">\
+				<div class="menu_select_1" onclick="location.href='/pay/makarong/pay.php'"></div>\
+				\
+<div class="menu_select_2">\
+    \
+    <div class="se_div">\
+		<span class="my_ma_cnt">
+\f1 \'b3\'aa\'c0\'c7
+\f0  
+\f1 \'ba\'b8\'c0\'af
+\f0  
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0 </span><input class="my_makarong_input" id='my_ma_in' type="text" value ='0' readonly"> \
+    </div>\
+\
+\
+<div class="se2_div">\
+    <span class="my_ma_cnt2">
+\f1 \'bb\'e7\'bf\'eb
+\f0  
+\f1 \'b8\'b6\'c4\'ab\'b7\'d5
+\f0  
+\f1 \'c0\'d4\'b7\'c2
+\f0 </span><input id="my_ma_in2" class="makarong_input" value="0" type="text">\
+</div>\
+\
+\
+</div>\
+\
+\
+\
+				</div>\
+\
+				<button type="button" class="makarong_check" onclick="makarong_batting();">
+\f1 \'c8\'ae\'c0\'ce
+\f0 </button>\
+			\
+\
+			</div>\
+\
+\
+\
+  </div>\
+\
+\
+\
+  \
+\
+\
+\
+<div id="main_ads">\
+<ins class="kakao_ad_area" style="display:none;" \
+ data-ad-unit    = "DAN-1jyg0vy75i3q9" \
+ data-ad-width   = "320" \
+ data-ad-height  = "100"\
+ data-ad-onload="zindex"\
+ data-ad-onfail="callBackFunc"></ins> \
+</div>\
+\
+\
+<script>\
+function zindex()\{\
+	$('#main_ads').find('div').css('z-index', '2');\
+\}\
+\
+function callBackFunc(elm) \{  \
+    text = [];  \
+    text.push('<center><ins class="adsbygoogle"');  \
+    text.push('style="display:inline-block;width:320px;height:100px"');  \
+    text.push('data-ad-client="ca-pub-3645921197055445"');  \
+    text.push('data-ad-slot="8633737525"></ins></center>');  \
+   \
+    elm.innerHTML = text.join(' ');  \
+    (adsbygoogle = window.adsbygoogle || []).push(\{\});  \
+\}  \
+\
+</script>\
+\
+\
+</div>\
+\
+<div class="askscrol"></div>\
+\
+<div class="ask_selector aon ask_relative">\
+			<a onClick="javascript:com_ask();">\
+                <div class="ask_complete a_child active" id="ask_complete">\
+                    <div class="num" id="compelte_count">3</div>\
+                    
+\f1 \'b4\'e4\'ba\'af\'bf\'cf\'b7\'e1
+\f0 \
+                </div>\
+            </a>\
+\
+<a onClick="alert('
+\f1 \'bf\'ec\'c3\'f8\'bb\'f3\'b4\'dc
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'b9\'f6\'c6\'b0\'c0\'bb
+\f0  
+\f1 \'c5\'ac\'b8\'af\'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .\\n
+\f1 \'be\'c6\'c0\'cc\'b5\'f0\'b3\'aa
+\f0  
+\f1 \'c0\'fc\'c3\'bc\'c1\'d6\'bc\'d2\'b8\'a6
+\f0  
+\f1 \'ba\'b9\'bb\'e7\'c7\'cf\'bf\'a9
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .\\n\uc0\u8251 
+\f1 \'c0\'da\'b1\'e2\'c1\'fa\'b9\'ae\'b8\'b8
+\f0  
+\f1 \'c8\'ae\'c0\'ce\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');">                <div class="ask_new a_child" id="ask_new">\
+                    <div class="num" id="new_count">0</div>\
+                    
+\f1 \'bb\'f5\'c1\'fa\'b9\'ae
+\f0 \
+                </div>\
+            </a>\
+\
+\
+<a onClick="alert('
+\f1 \'bf\'ec\'c3\'f8\'bb\'f3\'b4\'dc
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'b9\'f6\'c6\'b0\'c0\'bb
+\f0  
+\f1 \'c5\'ac\'b8\'af\'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .\\n
+\f1 \'be\'c6\'c0\'cc\'b5\'f0\'b3\'aa
+\f0  
+\f1 \'c0\'fc\'c3\'bc\'c1\'d6\'bc\'d2\'b8\'a6
+\f0  
+\f1 \'ba\'b9\'bb\'e7\'c7\'cf\'bf\'a9
+\f0  
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0  
+\f1 \'c7\'d8\'c1\'d6\'bc\'bc\'bf\'e4
+\f0 .\\n\uc0\u8251 
+\f1 \'c0\'da\'b1\'e2\'c1\'fa\'b9\'ae\'b8\'b8
+\f0  
+\f1 \'c8\'ae\'c0\'ce\'c7\'d2
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'bd\'c0\'b4\'cf\'b4\'d9
+\f0 .');">\
+                <div class="ask_reject a_child" id="ask_rej">\
+                    <div class="num" id="reject_count">0</div>\
+                    
+\f1 \'b0\'c5\'c0\'fd\'c1\'fa\'b9\'ae
+\f0 \
+                </div>\
+            </a>\
+</div>\
+\
+\
+\
+\
+\
+<div id="cards">\
+\
+\
+\
+\
+\
+\
+\
+<div id="card_622567356" class="card com_card" >\
+\
+  <div class="closediv"><a id="close_up_622567356" class="close" style="none" title="
+\f1 \'bb\'e8\'c1\'a6
+\f0 " onclick="close_more(622567356);"></a></div><span class="ask_name">
+\f1 \'c0\'cd\'b8\'ed
+\f0 </span><div id="closemore_622567356" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(622567356);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">
+\f1 \'bd\'c5\'b0\'ed\'c7\'cf\'b1\'e2
+\f0 </p><a id="share_down" data-clipboard-text="https://asked.kr/deep_link.php?contents=622567356"><p class="close_more_txt">
+\f1 \'b4\'e4\'ba\'af\'b8\'b5\'c5\'a9\'ba\'b9\'bb\'e7\'c7\'cf\'b1\'e2
+\f0 </p></a></div>  <div class="card_ask">\
+   
+\f1 \'c1\'d8\'bf\'ec\'be\'df
+\f0  
+\f1 \'c8\'a4\'bd\'c3
+\f0  
+\f1 \'bf\'c0\'b4\'c3\'b5\'b5
+\f0  
+\f1 \'b1\'d7
+\f0  
+\f1 \'b9\'f6\'bd\'ba
+\f0  
+\f1 \'c5\'b8
+\f0 ?  </div>\
+  <div id="profileAnserCard">\
+    <div class="profile_card_bg">\
+      <div class="profile_card_wrapper" id="fburl"  >\
+        <div class="profile_card_pic" id="profile_image"></div>\
+      </div>\
+    </div>\
+    <div class="profile_card_id">\
+       
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2
+\f0 	   <span class="profile_certification"></span>\
+    </div>\
+    <div class="card_time">\
+	   24
+\f1 \'c0\'cf
+\f0  
+\f1 \'c0\'fc
+\f0     </div>\
+  </div>\
+  <div class="img_div"></div>\
+  <div class="card_answer">\
+   
+\f1 \'be\'ee\'bf\'ec
+\f0  
+\f1 \'b9\'e8\'ba\'d2\'b7\'af
+\f0  
+\f1 \'bd\'ca
+\f0  
+\f1 \'a4\'bb\'a4\'bb
+\f0   </div>\
+</div>\
+\
+<div id="bottomline_622567356" class="bottomline"><a id="rating_622567356" class="heart" onclick="rating(622567356);"></a><span id="rating_cnt_622567356" class="rating_cnt">0</span></div>\
+\
+\
+\
+<div class="card com_card">\
+\
+<div class="ad-imgs">\
+\
+\
+<center>\
+<script src="//ads.priel.co.kr/cgi-bin/PelicanC.dll?impr?pageid=0E1z&out=script"></script>\
+ </center>\
+\
+</div>\
+</div>\
+\
+\
+\
+<div id="card_621121978" class="card com_card" >\
+\
+  <div class="closediv"><a id="close_up_621121978" class="close" style="none" title="
+\f1 \'bb\'e8\'c1\'a6
+\f0 " onclick="close_more(621121978);"></a></div><span class="ask_name">
+\f1 \'c0\'cd\'b8\'ed
+\f0 </span><div id="closemore_621121978" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(621121978);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">
+\f1 \'bd\'c5\'b0\'ed\'c7\'cf\'b1\'e2
+\f0 </p><a id="share_down" data-clipboard-text="https://asked.kr/deep_link.php?contents=621121978"><p class="close_more_txt">
+\f1 \'b4\'e4\'ba\'af\'b8\'b5\'c5\'a9\'ba\'b9\'bb\'e7\'c7\'cf\'b1\'e2
+\f0 </p></a></div>  <div class="card_ask">\
+   
+\f1 \'bf\'c0\'c7\'c2\'c3\'a4\'c6\'c3
+\f0  
+\f1 \'bf\'c3\'b7\'c1\'c1\'d9
+\f0  
+\f1 \'bc\'f6
+\f0  
+\f1 \'c0\'d6\'be\'ee
+\f0 ?  </div>\
+  <div id="profileAnserCard">\
+    <div class="profile_card_bg">\
+      <div class="profile_card_wrapper" id="fburl"  >\
+        <div class="profile_card_pic" id="profile_image"></div>\
+      </div>\
+    </div>\
+    <div class="profile_card_id">\
+       
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2
+\f0 	   <span class="profile_certification"></span>\
+    </div>\
+    <div class="card_time">\
+	   27
+\f1 \'c0\'cf
+\f0  
+\f1 \'c0\'fc
+\f0     </div>\
+  </div>\
+  <div class="img_div"></div>\
+  <div class="card_answer">\
+   
+\f1 \'be\'fb
+\f0  
+\f1 \'a4\'be
+\f0 \
+https://open.kakao.com/o/sphdaw6d  </div>\
+</div>\
+\
+<div id="bottomline_621121978" class="bottomline"><a id="rating_621121978" class="heart" onclick="rating(621121978);"></a><span id="rating_cnt_621121978" class="rating_cnt">0</span></div>\
+\
+\
+\
+<div id="card_621121976" class="card com_card" >\
+\
+  <div class="closediv"><a id="close_up_621121976" class="close" style="none" title="
+\f1 \'bb\'e8\'c1\'a6
+\f0 " onclick="close_more(621121976);"></a></div><span class="ask_name">
+\f1 \'c0\'cd\'b8\'ed
+\f0 </span><div id="closemore_621121976" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(621121976);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">
+\f1 \'bd\'c5\'b0\'ed\'c7\'cf\'b1\'e2
+\f0 </p><a id="share_down" data-clipboard-text="https://asked.kr/deep_link.php?contents=621121976"><p class="close_more_txt">
+\f1 \'b4\'e4\'ba\'af\'b8\'b5\'c5\'a9\'ba\'b9\'bb\'e7\'c7\'cf\'b1\'e2
+\f0 </p></a></div>  <div class="card_ask">\
+   
+\f1 \'bf\'a9\'c0\'da\'c4\'a3\'b1\'b8
+\f0  
+\f1 \'c0\'d6\'be\'ee
+\f0 ,,?  </div>\
+  <div id="profileAnserCard">\
+    <div class="profile_card_bg">\
+      <div class="profile_card_wrapper" id="fburl"  >\
+        <div class="profile_card_pic" id="profile_image"></div>\
+      </div>\
+    </div>\
+    <div class="profile_card_id">\
+       
+\f1 \'bf\'b5\'c1\'a4\'b3\'b2
+\f0 	   <span class="profile_certification"></span>\
+    </div>\
+    <div class="card_time">\
+	   27
+\f1 \'c0\'cf
+\f0  
+\f1 \'c0\'fc
+\f0     </div>\
+  </div>\
+  <div class="img_div"></div>\
+  <div class="card_answer">\
+   
+\f1 \'be\'f8\'be\'ee
+\f0  
+\f1 \'a4\'bb\'a4\'bb
+\f0   </div>\
+</div>\
+\
+<div id="bottomline_621121976" class="bottomline"><a id="rating_621121976" class="heart" onclick="rating(621121976);"></a><span id="rating_cnt_621121976" class="rating_cnt">0</span></div>\
+\
+\
+<a id="MOVE_TOP_BTN" href="#"><img src="./img/top.png" width="30" height="30"></a></div>\
+\
+\
+\
+<div class="more" style="display:none">\
+</div>\
+\
+\
+\
+\
+\
+<script>\
+    $(function() \{\
+        $(window).scroll(function() \{\
+            if ($(this).scrollTop() > 1500) \{\
+                $('#MOVE_TOP_BTN').fadeIn();\
+            \} else \{\
+                $('#MOVE_TOP_BTN').fadeOut();\
+            \}\
+        \});\
+        \
+        $("#MOVE_TOP_BTN").click(function() \{\
+            $('html, body').animate(\{\
+                scrollTop : 0\
+            \}, 400);\
+            return false;\
+        \});\
+    \});\
+\
+</script>\
+\
+<center>\
+<div style="margin:10 0 10 0;">\
+<a class="agreement" href="service.html">
+\f1 \'c0\'cc\'bf\'eb\'be\'e0\'b0\'fc
+\f0  | </a><a class="agreement">help@asked.kr</a>\
+</div>\
+</center>\
+ \
+\
+<div id="report_post_div" class="hc vc" style="display: none;margin-top:100px;position: fixed;">\
+\
+<div class="control-group">\
+ <div class="top_div">\
+    <p class="top_text_class">
+\f1 \'bd\'c5\'b0\'ed\'c7\'cf\'b1\'e2
+\f0 </p>\
+	<input type="text" id="report_type" style="display:none;">\
+	<input type="text" id="report_num" style="display:none;">\
+ </div>\
+ <div class="control_div">\
+	<p id="control_div_check" style="dispay:none;"></p>\
+    <label class="control control--radio">
+\f1 \'b1\'ab\'b7\'d3\'c8\'fb
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'bf\'c2\'b6\'f3\'c0\'ce
+\f0  
+\f1 \'bf\'d5\'b5\'fb
+\f0 \
+      <input type="radio" name="report" value="BU" checked="checked">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'c0\'da\'bb\'ec
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'c0\'da\'c7\'d8
+\f0 \
+      <input type="radio" name="report" value="SC">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'c7\'f8\'bf\'c0\'b9\'df\'be\'f0
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'bf\'e5\'bc\'b3
+\f0 \
+      <input type="radio" name="report" value="AB">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'c6\'f8\'b7\'c2
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b9\'fc\'c1\'cb
+\f0  
+\f1 \'c8\'b0\'b5\'bf
+\f0  
+\f1 \'c0\'af\'b5\'b5
+\f0 \
+      <input type="radio" name="report" value="VL">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'c0\'bd\'b6\'f5\'b9\'b0
+\f0 , 
+\f1 \'bc\'ba\'c0\'fb
+\f0  
+\f1 \'c8\'f1\'b7\'d5
+\f0 , 
+\f1 \'bd\'c5\'c3\'bc\'b3\'eb\'c3\'e2
+\f0 \
+      <input type="radio" name="report" value="SX">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'c8\'ab\'ba\'b8
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'bb\'f3\'be\'f7\'c0\'fb
+\f0  
+\f1 \'b1\'a4\'b0\'ed
+\f0  
+\f1 \'b6\'c7\'b4\'c2
+\f0  
+\f1 \'b5\'b5\'b9\'e8
+\f0 \
+      <input type="radio" name="report" value="PM">\
+      <div class="control__indicator"></div>\
+    </label>\
+    <label class="control control--radio">
+\f1 \'b0\'b3\'c0\'ce\'c1\'a4\'ba\'b8
+\f0  
+\f1 \'bf\'e4\'c3\'bb
+\f0  
+\f1 \'b9\'d7
+\f0  
+\f1 \'b1\'e2\'c5\'b8
+\f0 \
+      <input type="radio" name="report" value="PV">\
+      <div class="control__indicator"></div>\
+    </label>\
+  </div>\
+\
+<div class="bottom_div">\
+ <div class="bottom_div_left" onclick="close_more();">
+\f1 \'c3\'eb\'bc\'d2
+\f0 </div>\
+ <div class="bottom_div_right" onclick="report_ask_confirm(802)">
+\f1 \'c8\'ae\'c0\'ce
+\f0 </div>\
+</div>\
+\
+</div>\
+\
+</div>\
+\
+<div class="new_ask_div" style="display:none">\
+<div class="new_ask_img">\
+<div class="new_control_div">\
+  <img src="./img/ask_bg.png" width="245">\
+</div>\
+\
+<div id="fb-root"></div>\
+<script>(function(d, s, id) \{\
+  var js, fjs = d.getElementsByTagName(s)[0];\
+  if (d.getElementById(id)) return;\
+  js = d.createElement(s); js.id = id;\
+  js.src = 'https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.12&appId=1592212707723472&autoLogAppEvents=1';\
+  fjs.parentNode.insertBefore(js, fjs);\
+\}(document, 'script', 'facebook-jssdk'));</script>\
+<div style="margin-top: -70px;width: 100%;height: 70px;margin-left:0px;">\
+<div class="fb-like" data-href="https://www.facebook.com/askedkor/" data-width="" data-layout="button" data-action="like" data-size="large" data-share="false"></div>\
+</div>\
+\
+\
+<div class="new_bottom_div" style="margin-top: -33;margin-left: -1px;">\
+ <div class="new_bottom_div_left" onclick="close_back();">
+\f1 \'c3\'eb\'bc\'d2
+\f0 </div>\
+ <div id="new_bottom_div_right1" class="new_bottom_div_right" style="margin-right: -1px;" onclick="location.href='https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=7203543';">
+\f1 \'c8\'ae\'c0\'ce
+\f0 </div>\
+</div>\
+</div>\
+</div>\
+\
+<div class="new_ask_div2" style="display:none">\
+<div class="new_ask_img">\
+<div class="new_control_div">\
+  <img src="./img/ask_bg2.png" width="245">\
+</div>\
+<div class="new_bottom_div" style="margin-top: -33;margin-left: -1px;">\
+ <div class="new_bottom_div_left" onclick="close_back();">
+\f1 \'c3\'eb\'bc\'d2
+\f0 </div>\
+ <div id="new_bottom_div_right2" class="new_bottom_div_right" style="margin-right: -1px;" onclick="location.href='https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=6204054&Deeplink=true';">
+\f1 \'c8\'ae\'c0\'ce
+\f0 </div>\
+</div>\
+</div>\
+</div>\
+\
+<script>\
+function mobilead_loc()\{\
+	var ua = String( navigator.userAgent ).toLowerCase();\
+	if(/android/.test(ua))\{\
+		location.href='https://goo.gl/fRo1AY';\
+	\}else if(/iphone/.test(ua))\{\
+		location.href='https://goo.gl/oIiZ0Z';\
+	\}\
+\}\
+</script>\
+\
+ <div style="height: 100px;"></div>\
+\
+<div class="mobilead" id="mobilead">\
+\
+\
+<center>\
+<ins class="kakao_ad_area" style="display:none;" \
+ data-ad-unit    = "DAN-1k25l5g4fb5ma" \
+ data-ad-width   = "320" \
+ data-ad-height  = "50"></ins> \
+</center>\
+\
+</div>\
+\
+\
+\
+\
+\
+\
+\
+\
+<div id="fb-root"></div>\
+<script>(function(d, s, id) \{\
+  var js, fjs = d.getElementsByTagName(s)[0];\
+  if (d.getElementById(id)) return;\
+  js = d.createElement(s); js.id = id;\
+  js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";\
+  fjs.parentNode.insertBefore(js, fjs);\
+\}(document, 'script', 'facebook-jssdk'));</script>\
+<script>\
+  (function(i,s,o,g,r,a,m)\{i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()\{\
+  (i[r].q=i[r].q||[]).push(arguments)\},i[r].l=1*new Date();a=s.createElement(o),\
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\
+  \})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\
+\
+  ga('create', 'UA-47330322-1', 'asked.kr');\
+  ga('send', 'pageview');\
+\
+	var ua = String( navigator.userAgent ).toLowerCase();\
+	if(/android/.test(ua))\{\
+		$('#btm_ad').attr('src','./img/mobileTopAd.png');\
+	\}else if(/iphone/.test(ua))\{\
+		$('#btm_ad').attr('src','./img/mobileTopAd.png');\
+	\}\
+</script>\
+\
+\
+\
+\
+<script>\
+\
+    refresh_timer();\
+\
+	function adsload()\{\
+	var oldDocumentWrite = document.write\
+\
+	// change document.write temporary\
+	document.write = function(node)\{\
+	$("body").append(node)\
+	\}\
+\
+	// get script\
+	$.getScript( "//ads.priel.co.kr/js/showup_asked.js", function() \{\
+	// replace the temp document.write with the original version\
+	setTimeout(function() \{\
+	document.write = oldDocumentWrite\
+	\}, 100)\
+	\});\
+	\}\
+\
+\
+\
+\
+</script>\
+<link rel="stylesheet"\
+href="https://fonts.googleapis.com/icon?family=Material+Icons">\
+\
+\
+<style>\
+\
+\
+.navbg \{\
+    background-color: rgba(0, 0, 0, 0.70);\
+    position: fixed;\
+	z-index: 1000000001;\
+    left: 0;\
+    bottom: 0px;\
+    width: 100%;\
+    height: 54px;\
+\}\
+\
+.navtxt\{\
+    line-height: 53px;\
+    float: right;\
+    padding-right: 26px;\
+    color: #fff;\
+\}\
+\
+.bottom-menu \{\
+position: fixed;\
+left: 0;\
+bottom: 0;\
+z-index: 1000000000;\
+width: 100%;\
+height: 50px;\
+background: white;\
+padding-bottom: 4px;\
+box-shadow: 4px 4px 7px 7px rgba(0, 0, 0, 0.13);\
+outline-style: none;\
+-webkit-tap-highlight-color:transparent;\
+\}\
+\
+.bottom-menu a \{\
+display: block;\
+float: left;\
+width: 25%;\
+text-align: center;\
+padding: 30px 0 0;\
+margin-top: 6px;\
+font-size: .400em;\
+outline-style: none;\
+\}\
+\
+.nc\{\
+color: #bdbdbd;\
+\}\
+\
+.fc\{\
+	color: #071b9a;\
+\}\
+\
+.home \{\
+	background: url(../img/nav/home.png) no-repeat 50% 1px;\
+	background-size: 24px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.search \{\
+	background: url(../img/nav/search.png) no-repeat 50% 1px;\
+	background-size: 22px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.alram \{\
+	background: url(../img/nav/alram.png) no-repeat 50% 1px;\
+	background-size: 20px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.nalram \{\
+	background: url(../img/nav/nalram.png) no-repeat 50% 1px;\
+	background-size: 20px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.myfeed \{\
+	background: url(../img/nav/myfeed.png) no-repeat 50% 1px;\
+	background-size: 22px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+\
+.home_s \{\
+	background: url(../img/nav/home_s.png) no-repeat 50% 1px;\
+	background-size: 24px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.search_s \{\
+	background: url(../img/nav/search_s.png) no-repeat 50% 1px;\
+	background-size: 22px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.alram_s \{\
+	background: url(../img/nav/alram_s.png) no-repeat 50% 1px;\
+	background-size: 20px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+.myfeed_s \{\
+	background: url(../img/nav/myfeed_s.png) no-repeat 50% 1px;\
+	background-size: 22px auto;\
+	background-position: 50% 30%;\
+\}\
+\
+</style>\
+ \
+ \
+ <div class="navbg" onclick="location.href='./';"><span class="navtxt">
+\f1 \'b7\'ce\'b1\'d7\'c0\'ce
+\f0 </span></div>\
+ <div style="height: 50px;"></div>\
+<nav id="bottomMenu" class="bottom-menu">\
+	<a href="/newsfeed.php" class="nc home">
+\f1 \'b4\'ba\'bd\'ba\'c7\'c7\'b5\'e5
+\f0 </a>\
+    <a href="/user_search.php" class="nc search">
+\f1 \'b0\'cb\'bb\'f6
+\f0 </a>\
+    <a href="/new_noti.php" class="nc alram"></span>
+\f1 \'be\'cb\'b8\'b2
+\f0 </a>\
+</nav>\
+	\
+	\
+	\
+\
+\
+\
+\
+\
+<div id="ann">\
+</div>\
+\
+<!-- Facebook Pixel Code -->\
+<script>\
+  !function(f,b,e,v,n,t,s)\
+  \{if(f.fbq)return;n=f.fbq=function()\{n.callMethod?\
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)\};\
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\
+  n.queue=[];t=b.createElement(e);t.async=!0;\
+  t.src=v;s=b.getElementsByTagName(e)[0];\
+  s.parentNode.insertBefore(t,s)\}(window, document,'script',\
+  'https://connect.facebook.net/en_US/fbevents.js');\
+  fbq('init', '514865262552927');\
+  fbq('track', 'PageView');\
+</script>\
+<noscript><img height="1" width="1" style="display:none"\
+  src="https://www.facebook.com/tr?id=514865262552927&ev=PageView&noscript=1"\
+/></noscript>\
+<!-- End Facebook Pixel Code -->\
+\
+<script type="text/javascript">\
+  window._taboola = window._taboola || [];\
+  _taboola.push(\{flush: true\});\
+</script> \
+\
+</body>\
+</html>\
+\
+\
+\
+}
